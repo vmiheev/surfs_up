@@ -6,9 +6,11 @@ Analyzing temperature data for the months of June and December in Oahu, Hawaii i
 ## Results
 
 * The following are the summary statistics for June:
+
 ![June](/Resources/june_temps.png)
 
 * The following are the summary statistics for December:
+
 ![Dec](/Resources/dec_temps.png)
 
 ### Observations
